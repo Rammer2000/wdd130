@@ -1,0 +1,153 @@
+#content {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+h2{
+    margin: 0;
+}
+#logo_link{
+    padding-top: 5px;
+}
+.home-title{
+  color: #fdfd96;  
+  font-family: "Times New Roman", serif;
+  font-size: 2em;
+  margin-top: 10px;
+}
+#nav a {
+    text-align: center;
+    color: #fdfd96;
+    text-decoration: none;
+    font-family: "Times New Roman", serif;
+    padding: 35px;
+}
+#hero-msg h1{
+    text-align: center;
+    color: #fdfd96;
+    font-family: "Times New Roman", serif;
+} 
+#hero-msg h4{
+    text-align: center;
+    color: #fdfd96;
+    font-family: "Courier New", monospace;
+}
+.button-box {
+    text-align: center;
+    font-family: "Courier New", monospace;
+    margin: 20px auto;
+}
+main section{
+    text-align: center;
+    color: #fdfd96;
+    font-family: "Courier New", monospace;
+}
+#hero-msg h2{
+    text-align: center;
+    color: #fdfd96;
+    font-family: "Courier New", monospace;
+}
+#a{
+    text-align: center;
+    color: #fdfd96;
+    font-family: "Courier New", monospace;
+}
+#background {
+    height: 725px;
+}
+body{
+    background-color: #024fc2;
+    color: #fdfd96;
+    font-family: "Courier New", monospace;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #68C5DB;
+    color: #fdfd96;
+    font-family: "Courier New", monospace;
+}
+nav a:hover{
+    background-color: #0197F6;
+    color: #fdfd96;
+    font-family: "Courier New", monospace;
+}
+.book{
+    background-color: #005180;
+    color: red;
+    text-decoration: none;
+    font-family: "Courier New", monospace;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+} 
+.join{
+    background-color: #005180;
+    color: red;
+    text-decoration: none;
+    font-family: "Courier New", monospace;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.book:hover{
+    background-color: #0197F6;
+    color: red;
+    font-family: "Courier New", monospace;
+}
+.join:hover{
+    background-color: #0197F6;
+    color: red;
+    font-family: "Courier New", monospace;
+}
+#background{
+    background-color: #3398d3;
+    font-family: "Courier New", monospace;
+}
+.msg{
+    background-color: #005180;
+    font-family: "Courier New", monospace;
+    color: #fdfd96;
+    line-height: 1.5em;
+    padding: 35px;
+}
+footer{
+    background-color: #68C5DB;
+    font-family: "Courier New", monospace;
+    padding: 25px 50px;
+    margin-top: 200px;
+}
+.icon {
+    width: 80px;;
+    padding-top: 10px;
+}
+footer a{
+    text-decoration: none;
+    font-family: "Courier New", monospace;
+}
+footer p{
+    font-size: 1.2em;
+    font-family: "Courier New", monospace;
+}
+footer p a:hover{
+    text-decoration: underline;
+    font-family: "Courier New", monospace;
+}
+.msg p {
+    font-size: .8em;
+    padding-bottom: 15px;
+}
+.rivers-card, .camping-card, .rapids-card{
+    margin: 200px 0;
+}
+.card-img{
+    border: 10px solid black
+}
+main section img {
+    box-sizing: border-box;
+}
+footer .social img{
+    padding-top: 15px;
+}
