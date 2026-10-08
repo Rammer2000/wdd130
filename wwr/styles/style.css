@@ -9,6 +9,12 @@ h2{
     padding-top: 5px;
     justify-self: center;
     align-self: center;
+    height: 50px;
+    justify-content: flex-start;
+}
+.logo{
+    max-width: 150px;
+    justify-self: flex-start; 
 }
 .home-title{
   color: #fdfd96;  
@@ -122,6 +128,9 @@ footer{
     font-family: "Courier New", monospace;
     padding: 25px 50px;
     margin-top: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 .icon {
     width: 80px;;
@@ -175,5 +184,36 @@ nav{
     margin-top: 100px;
 }
 #hero-img{
+    width: 100%;
+}
+.home-grid{
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+}
+.rivers-card{
+    grid-column:2/4;
+    grid-row: 2/3;
+}
+.camping-card{
+    grid-column: 5/7;
+    grid-row: 2/3;
+}
+.rapids-card{
+    grid-column: 8/10;
+    grid-row: 2/3;
+}
+#background{
+    grid-column: 1/11;
+    grid-row: 4/9;
+}
+.mountains{
+    grid-column: 2/7;
+    grid-row: 5/8;
+}
+.msg{
+    grid-column: 6/10;
+    grid-row: 6/7;
+}
+.card-img, .mountains {
     width: 100%;
 }
