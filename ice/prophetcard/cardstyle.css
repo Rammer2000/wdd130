@@ -1,0 +1,38 @@
+h1{
+    color: #fffffe;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h2{
+    justify-self: center;
+}
+#content{
+    margin: 500px;
+    border: #004e63 4px solid;
+    border-radius: 20px;
+    padding: 20px; 
+    text-align: center;
+    background-color: #15a6ce;
+}
+#card{
+    background-color: #008DB1;
+    border: 10px;
+    border-color: blue;
+}
+p{
+   color:white;
+    font-family: "helvetica", sans-serif;
+}
+h4{
+    color:#ffd783;
+    font-family: "Brush Script MT", cursive;
+}
+body{
+    background-color: #ffecd7;
+     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#imglink{
+    padding-top: 490px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: white;
+}
