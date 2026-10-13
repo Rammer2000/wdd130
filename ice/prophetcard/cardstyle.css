@@ -3,7 +3,12 @@ h1{
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 h2{
+    color: white;
     justify-self: center;
+}
+h3{
+color: white;
+justify-self: center;
 }
 #content{
     margin: 500px;
