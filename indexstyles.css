@@ -1,3 +1,47 @@
-header{
+.content{
+    align-self: center;
+    max-width: 1920px;
+    font-family:'Creepster', cursive;
+}
+img{
+    width: 100%;
+    height: 500px;
+}
+.social img{
+    width: 50px;
+    height: 50px;
+}
+h1{
+    font-family:'Creepster', cursive;
     text-align: center;
+    color: yellow;
+}
+h2{
+    font-family:'Creepster', cursive;
+    text-align: center;
+    color: yellow;
+}
+h3{
+    font-family:'Creepster', cursive;
+    text-align: center;
+    color: yellow;
+    height: 125px;
+    border: 10px solid cyan;
+}
+nav{
+    text-align: center;
+}
+nav a{
+    align-self: center;
+    font-family:'Creepster', cursive;
+    text-align: center;
+    color: yellow;
+}
+header{
+    background-color: cornflowerblue;
+    height: 175px;
+    border: 10px solid cyan;
+}
+body{
+    background-color: cornflowerblue;
 }
