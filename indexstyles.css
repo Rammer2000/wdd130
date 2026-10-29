@@ -2,7 +2,6 @@
 .content{
     align-self: center;
     max-width: 1920px;
-    font-family:'Creepster', cursive;
 }
 img{
     width: 100%;
@@ -13,17 +12,17 @@ img{
     height: 50px;
 }
 h1{
-    font-family:'Creepster', cursive;
+    font-family:'Comic Relief', system-ui;
     text-align: center;
     color: yellow;
 }
 h2{
-    font-family:'Creepster', cursive;
+    font-family:'Comic Relief', system-ui;
     text-align: center;
     color: yellow;
 }
 h3{
-    font-family:'Creepster', cursive;
+    font-family:'Comic Relief', system-ui;
     text-align: center;
     color: yellow;
     height: 125px;
@@ -34,7 +33,7 @@ nav{
 }
 nav a{
     align-self: center;
-    font-family:'Creepster', cursive;
+    font-family:'Comic Relief', system-ui;
     text-align: center;
     color: yellow;
 }
