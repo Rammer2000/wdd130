@@ -1,0 +1,63 @@
+body{
+    background-color: #f7f4ee;
+    font-family: "DM Serif Text", serif;
+    margin: auto 150px;
+    border-top: 20px #6B7044 solid;
+}
+#title{
+
+    background-color: #6B7044;
+    text-align: center;
+}
+#beeg_picture{
+    display: grid;
+    grid-template-columns: 0.5fr 50px 1.5fr;
+    width: 1000px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+nav{
+    background-color: #a0a967;
+    text-align: center;
+}
+#content{
+    background-color: #6B7044
+}
+#smaller_pictures_group img{
+    text-align: center;
+    margin: 0 auto;
+    width: 400px;
+    height: 500px;
+}
+#smaller_pictures{
+    margin: auto auto;
+    text-align: center;
+}
+#beeg_picture2{
+    grid-column: 1/2;
+}
+#beeg_text{
+    grid-column: 3/4;
+    background-color: #a0a967;
+} 
+#beeg_text h2{
+    font-size: 300%
+}
+#beeg_text h3{
+    font-size: 200%
+}
+#las_pictuur{
+    display: grid;
+    grid-template-columns: 0.5fr 50px 1.5fr;
+    width: 1000px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+#las_pictuur2{
+    grid-column: 1/2;
+}
+#las_tect{
+    grid-column: 3/4;
+    background-color: #a0a967;
+}
